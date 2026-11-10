@@ -1,19 +1,19 @@
-# psychometrics-qa-suite
-# Ì∑† PsychoMetrics QA Suite ‚Äî Automated Validation & Testing Platform
+# üß† PsychoMetrics QA Suite: Plataforma automatizada de validaci√≥n y pruebas
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pytest](https://img.shields.io/badge/Testing-Pytest-green?logo=pytest)
-![QA Engineering](https://img.shields.io/badge/QA-Data%20Validation-orange)
+![QA](https://img.shields.io/badge/QA-Data%20Validation-orange)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
-## Ì≥å Visi√≥n General del Proyecto
-**PsychoMetrics QA Suite** es un marco de trabajo de aseguramiento de calidad dise√±ado para validar la integridad de datos y automatizar pruebas sobre instrumentos de evaluaci√≥n psicol√≥gica. 
+## Visi√≥n General del Proyecto
+
+**PsychoMetrics QA Suite** es un marco de trabajo de aseguramiento de calidad dise√±ado para validar la integridad de datos y automatizar pruebas sobre instrumentos de evaluaci√≥n psicol√≥gica.
 
 Este m√≥dulo implementa l√≥gica de negocio en **Python** para procesar la escala de ansiedad **GAD-7 (Generalized Anxiety Disorder-7)**, garantizando que las respuestas ingresadas cumplan con restricciones de tipo, rango y longitud antes de ser procesadas por servicios downstream o APIs.
 
 ---
 
-## Ìª†Ô∏è Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ```text
 psychometrics-qa-suite/
